@@ -1,5 +1,5 @@
 ![Add a little bit of body text](https://user-images.githubusercontent.com/130790017/236656965-dca17cc9-1d6b-4113-b4d9-aa0683910a98.png)
-<h1 align="center">Hi 👋, I'm Samyak Maitre</h1>
+<h1 align="center">Hi👋, I'm Samyak Maitre</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Social Media Web App**
