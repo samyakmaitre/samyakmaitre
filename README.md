@@ -1,4 +1,4 @@
-<img width=1800px height=300px align="center" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGkybnZoMjMzMjJncnE3Y3FrdDFkbmh1MXo5MXdsdnFhZm9sd29tciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img width=1800px height=300px align="center" alt="Coding" src="https://i.gifer.com/MQMw.gif">
 
 
 <h1 align="center">Hi 👋, I'm Samyak Maitre</h1>
