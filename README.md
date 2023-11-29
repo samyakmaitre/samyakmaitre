@@ -48,7 +48,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyakmaitre&theme=radical" alt="samyakmaitre" />
   </p>
 
-  [![Hanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakmaitre&theme=radical&show_icons=true)](https://github.com/samyakmaitre/github-readme-stats)
+  [![samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakmaitre&theme=radical&show_icons=true)](https://github.com/samyakmaitre/github-readme-stats)
 
 </div>
 <br/>
