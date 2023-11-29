@@ -9,7 +9,7 @@
   <samp>🔭 &nbsp;I’m currently working on something cool :wink:</samp><br>
   <samp>🌱 &nbsp;I’m currently learning Blockchain</samp><br>
   <samp>💬 &nbsp;Ask me about anything related to MERN stack</samp><br>
-  <samp>👨‍💻 &nbsp;Read more about my projects at <a href="https://my-portfolio-website-three-delta.vercel.app/" target="_blank">MyPortfolio.com</a></samp><br>
+  <samp>👨‍💻 &nbsp;Read more about my projects at <a href="https://samyakmaitre.netlify.app/" target="_blank">MyPortfolio</a></samp><br>
   <samp>⚡ &nbsp;Fun fact: I :heart: Reading about Current and World affairs</samp>
 </p>
 <h3 align="center">Connect with me:</h3>
