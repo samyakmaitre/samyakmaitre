@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://github.com/samyakmaitre123/samyakmaitre123/assets/104623869/d133d592-b25f-4dac-8d2e-165b591aba4e">
+<img align="right" alt="Coding" src="https://github.com/samyakmaitre/samyakmaitre/assets/104623869/d133d592-b25f-4dac-8d2e-165b591aba4e">
 
 
 <h1 align="center">Hi 👋, I'm Samyak Maitre</h1>
@@ -22,33 +22,33 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/samyakmaitre123/samyakmaitre123/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/samyakmaitre/samyakmaitre/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/samyakmaitre123/samyakmaitre123/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/samyakmaitre/samyakmaitre/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/samyakmaitre123/samyakmaitre123/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/samyakmaitre/samyakmaitre/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samyakmaitre123&show_icons=true&theme=radical" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samyakmaitre&show_icons=true&theme=radical" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samyakmaitre123&theme=radical&show_icons=true&locale=en&layout=compact" alt="samyakmaitre123" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samyakmaitre&theme=radical&show_icons=true&locale=en&layout=compact" alt="samyakmaitre" />
 </p>
 
 <div align="center" style="display: flex; justify-content: space-around;">
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyakmaitre123&theme=radical" alt="samyakmaitre123" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyakmaitre&theme=radical" alt="samyakmaitre" />
   </p>
 
-  [![Hanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakmaitre123&theme=radical&show_icons=true)](https://github.com/samyakmaitre123/github-readme-stats)
+  [![Hanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakmaitre&theme=radical&show_icons=true)](https://github.com/samyakmaitre/github-readme-stats)
 
 </div>
 <br/>
@@ -56,14 +56,14 @@
 <h3 align="center">My Top Repositories 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/samyakmaitre123/MY-PORTFOLIO-WEBSITE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre123&theme=radical&repo=MY-PORTFOLIO-WEBSITE" width="260">
+  <a href="https://github.com/samyakmaitre/MY-PORTFOLIO-WEBSITE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre&theme=radical&repo=MY-PORTFOLIO-WEBSITE" width="260">
   </a>
-  <a href="https://github.com/samyakmaitre123/MELOCAST-music-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre123&theme=radical&repo=MELOCAST-music-website" width="260">
+  <a href="https://github.com/samyakmaitre/MELOCAST-music-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre&theme=radical&repo=MELOCAST-music-website" width="260">
   </a>
-  <a href="https://github.com/samyakmaitre123/Snaply">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre123&theme=radical&repo=Snaply" width="260">
+  <a href="https://github.com/samyakmaitre/Snaply">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre&theme=radical&repo=Snaply" width="260">
   </a>
 </p>
 
