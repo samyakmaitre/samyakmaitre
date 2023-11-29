@@ -1,4 +1,4 @@
-<img width=1800px height=300px align="center" alt="Coding" src="https://i.gifer.com/MQMw.gif">
+<img width=1800px height=300px align="center" alt="Coding" src="https://images.squarespace-cdn.com/content/v1/5900e73dd2b85756c5b7877a/1548695576787-D0WS3HZAIPOQ5M56Y804/ke17ZwdGBToddI8pDm48kDwcMOkWjB-dh5UJuaCAkzJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpx7gYYqsE3-d3T-rAujCsKB6Ebg7BE-3tI4Wg3H92DuXshSGXJoxzxQyr_LXYiHo9c/matrixrain.gif">
 
 
 <h1 align="center">Hi 👋, I'm Samyak Maitre</h1>
