@@ -1,4 +1,4 @@
-<img width=1800px height=300px align="center" alt="Coding" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif">
+<img width=1800px height=300px align="center" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGkybnZoMjMzMjJncnE3Y3FrdDFkbmh1MXo5MXdsdnFhZm9sd29tciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <h1 align="center">Hi 👋, I'm Samyak Maitre</h1>
