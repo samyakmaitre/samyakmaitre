@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://github.com/samyakmaitre/samyakmaitre/assets/104623869/d133d592-b25f-4dac-8d2e-165b591aba4e">
+<img align="right" alt="Coding" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif">
 
 
 <h1 align="center">Hi 👋, I'm Samyak Maitre</h1>
