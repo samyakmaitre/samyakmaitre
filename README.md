@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Samyak Maitre</h1>
 <h2 align="center">Web Developer</h2>
-
 <p align="center">
   <samp>This is the place where I opensource stuff and uploads cool projects :rofl:</samp><br><br>
   <samp>🔭 &nbsp;I’m currently working on something cool :wink:</samp><br>
