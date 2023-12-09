@@ -14,7 +14,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @samyakmaitre for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **5** years ago.
+Joined Github **1** years ago.
 
 Since then I pushed **2884**+ commits, opened **229**+ issues, submitted **327**+ pull requests, created **20**+ gists and contributed to **9**+ public repositories.
 
