@@ -29,7 +29,7 @@ Like My Work?
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/samyakmaitre/samyakmaitre/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 📫 &nbsp; Reach me out: samyakmaitre100@gmail.com.
 
 ### My Absolute Favorites:
 
