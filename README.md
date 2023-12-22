@@ -12,7 +12,6 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
 Feel free to connect with me @samyakmaitre for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
 Joined Github **1** years ago.
 
 Since then I pushed **2884**+ commits, opened **229**+ issues, submitted **327**+ pull requests, created **20**+ gists and contributed to **9**+ public repositories.
