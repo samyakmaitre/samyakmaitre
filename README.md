@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samyak Maitre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyakmaitre&label=Profile%20views&color=0e75b6&style=flat" alt="samyakmaitre" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyakmaitre" alt="samyakmaitre" +1000 /></a> </p>
 - 🔭 I’m currently working on **online selling portal**
