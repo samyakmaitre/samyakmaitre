@@ -47,7 +47,7 @@
 #### Top Repositories
 
 <a href="https://github.com/samyakmaitre/eventmint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre&repo=eventmint&theme=buefy" />
 </a>
 <a href="https://github.com/samyakmaitre/samyakmaitre.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre&repo=samyakmaitre.github.io&theme=buefy" />
