@@ -36,8 +36,24 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/samyakmaitre"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="samyakmaitre" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyakmaitre&show_icons=true&locale=en&layout=compact" alt="samyakmaitre" /></p><br><br>
+| <a href="https://github.com/samyakmaitre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyakmaitre&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Samyak's github stats" /></a> | <a href="https://github.com/samyakmaitre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyakmaitre&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samyakmaitre&show_icons=true&locale=en" alt="samyakmaitre" /></p><br><br>
+#### Top Repositories
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyakmaitre&" alt="samyakmaitre" /></p><br><br>
+<a href="https://github.com/samyakmaitre/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/samyakmaitre/samyakmaitre.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre&repo=samyakmaitre.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/your_twitter_handle">
+  <img align="right" alt="Samyak Maitre | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/samyakmaitre">
+  <img align="right" alt="Samyak Maitre | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
