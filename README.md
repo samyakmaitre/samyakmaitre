@@ -49,16 +49,9 @@
 <a href="https://github.com/samyakmaitre/eventmint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre&repo=eventmint&theme=buefy" />
 </a>
-<a href="https://github.com/samyakmaitre/samyakmaitre.github.io">
+<!-- <a href="https://github.com/samyakmaitre/samyakmaitre.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samyakmaitre&repo=samyakmaitre.github.io&theme=buefy" />
-</a>
+</a> -->
 
 <br />
 <br />
-
-<a href="https://twitter.com/your_twitter_handle">
-  <img align="right" alt="Samyak Maitre | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/samyakmaitre">
-  <img align="right" alt="Samyak Maitre | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
