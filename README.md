@@ -44,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=samyakmaitre&style=flat-square&color=22CCB2">
+
 
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samyakmaitre&theme=2077"  display=block width=100% height=auto  alt="1" >
